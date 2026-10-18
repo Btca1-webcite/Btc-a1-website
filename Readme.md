@@ -5,9 +5,9 @@
 ## About BTCA1
 **BTCA1** is a high-security BEP20 token on Binance Smart Chain (BSC) with an immutable contract.  
 
-- **Total Supply:** 22,500,000 BTCA1  
-- **Owner Supply:** 2,500,000 BTCA1  
-- **Contract Supply:** 20,000,000 BTCA1   
+- **Total Supply:** 22.5M BTCA1  
+    
+- **Contract Supply:** 22.5M BTCA1   
 
 ## Contract Details
 - **Contract Address:** `0xC773573Dd0d086f47bcDe524CbAa6795A13d20fe`  
