@@ -15,12 +15,19 @@
 - **Token Standard:** BEP20  
 - **Explorer:** [View on BscScan](https://bscscan.com/token/0xC773573Dd0d086f47bcDe524CbAa6795A13d20fe)  
 
-## Logo
-- **File:** `logo.png`  
-- **Format:** PNG  
-- **Resolution:** 256×256 px  
-- **Background:** Orange (#FFA500)
-- **Symbol:** White “B”  (Cripto Style) 
+# Logo Specs
+- **File Name:** logo.png
+- **Format:** PNG
+- **Shape:** Circular (Coin / Badge Style)
+- **Base Background:** Deep Black (#000000) with subtle dark radial gradient
+- **Outer Ring / Border:** Metallic Gold circular rim with inner bevel and shadow effect
+- **Main Symbol:** 3D Stylized Crypto "B" in gradient gold finish, featuring a dynamic swoosh/orbital accent ring passing through the center
+- **Background Details:** Circuit board traces (PCB nodes and lines) radiating outwards in metallic gold from the central emblem
+- **Color Palette:** 
+  - Metallic Gold (`#FFD700` / `#E6A100` / `#B8860B`)
+  - Deep Black (`#000000`)
+  - Accent Glow (`#FFE57F`)
+
 
 ## Official Links
 - 🌐 [Website](https://btca1.xyz)  
