@@ -1,0 +1,32 @@
+<div class="container">
+    <div class="logo-container">
+        <img src="your-logo.png" alt="BTCA1 Coin Logo">
+    </div>
+
+    <h1 class="main-title">BTCA1 Coin</h1>
+    <p class="subtitle">Next-Gen Life-Changer | Fully Decentralized & Ultra-Secure</p>
+
+    <div class="stats-card">
+        <div class="stat-item supply-text">🚀 Total Supply: 22.5M</div>
+        <div class="stat-item tax-text">💎 Buy Tax: <span class="tax-buy">5%</span> | Sell Tax: <span class="tax-sell">4.21%</span></div>
+    </div>
+
+    <div class="token-details-card">
+        <h2 class="section-title">Token Details</h2>
+        
+        <div class="detail-group">
+            <div class="detail-label">Contract Address:</div>
+            <div class="contract-address">0xC773573Dd0d086f47bcDe524CbAa6795A13d20fe</div>
+        </div>
+
+        <div class="detail-group">
+            <span class="detail-label">Name: </span>
+            <span class="detail-value">BTCA1</span>
+        </div>
+
+        <div class="detail-group">
+            <span class="detail-label">Symbol: </span>
+            <span class="detail-value">BTCA1</span>
+        </div>
+    </div>
+</div>
