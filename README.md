@@ -44,7 +44,7 @@
 - ✉️ [Support Email](mailto:info@btca1.xyz)
 - 📊 [BscScan Explorer](https://bscscan.com/token/0xC773573Dd0d086f47bcDe524CbAa6795A13d20fe)
 - 💬 [Telegram Channel](https://t.me/btc_a1_official)
-- 📂 [https://github.com/Btca1-webcite/Btc-a1-website).
+- 📂 [https://github.com/Btca1-webcite/Btc-a1-website)
 
 ## Trust Wallet Listing Assets
 All assets required for Trust Wallet listing are included in this repository
@@ -53,7 +53,7 @@ All assets required for Trust Wallet listing are included in this repository
 - `info.json` – Token metadata required by Trust Wallet
 - `whitepaper.pdf` – Official token whitepaper
 
-> Click [here](https://github.com/Btca1-webcite/Btc-a1-website). to access the official repository containing all Trust Wallet–ready files
+> Click [here](https://github.com/khatusp/Btca1-webcite/Btc-a1-website). to access the official repository containing all Trust Wallet–ready files
 
 ---
 
