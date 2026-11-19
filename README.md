@@ -3,7 +3,7 @@
 ![BTCA1 Logo](https://btca1.xyz/logo.png)
 
 ## About BTCA1
-**BTCA1** is a high-security BEP20 token on Binance Smart Chain (BSC) with an immutable contract designed with Bitcoin-level security.
+**BTCA1** is a high-security BEP20 token on Binance Smart Chain (BSC) with an immutable contract designed with High-level security.
 
 - **Total Supply:** 225,000,000 BTCA1
 - **Network:** Binance Smart Chain (BEP20)
