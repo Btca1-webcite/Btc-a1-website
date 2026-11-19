@@ -3,8 +3,7 @@
   "symbol": "BTCA1",
   "type": "BEP20",
   "decimals": 18,
-  "description": "BTCA1 is a next-generation decentralized BEP20 token on Binance Smart Chain, designed with Bitcoin-level security and a fixed total supply.",
-  "extended_description": "Key Features: Decentralized governance, Fixed total supply: 225,000,000 BTCA1, Secure and immutable smart contract, Fair trading tax (5% buy, 4.21% sell), Active community support. Contact: info@btca1.xyz. Official Website: https://btca1.xyz. Stay connected via our official channels: Telegram: https://t.me/btc_a1_official, GitHub: https://github.com/khatuSP/btc-a1-website",
+  "description": "BTCA1 is an independent digital asset built on the BNB Smart Chain (BEP20), focused on transparency, security, and decentralized blockchain technology. It features a fixed total supply of 225,000,000 tokens and an immutable smart contract designed for transparent and reliable on-chain transactions.
   "website": "https://btca1.xyz/",
   "explorer": "https://bscscan.com/token/0xC773573Dd0d086f47bcDe524CbAa6795A13d20fe",
   "status": "active",
@@ -24,7 +23,7 @@
     },
     {
       "name": "GitHub",
-      "url": "https://github.com/khatuSP/btc-a1-website"
+      "url": "https://github.com/Btca1-webcite/Btc-a1-website)
     }
   ]
 }
