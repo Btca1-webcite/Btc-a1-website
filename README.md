@@ -52,7 +52,7 @@ All assets required for Trust Wallet listing are included in this repository
 - `info.json` – Token metadata required by Trust Wallet
 - `whitepaper.pdf` – Official token whitepaper
 
-> Click [here](https://github.com/Btca1-webcite/Btc-a1-website) to access the official repository containing all Trust Wallet listing assets.
+> Click [here](https://github.com/Btca1-webcite/Btc-a1-website)to access the official repository containing all Trust Wallet listing assets.
 
 ---
 
